@@ -4,7 +4,7 @@
 
 <img src="https://media.giphy.com/media/5ntdy5Ban1dIY/giphy.gif">
 
- ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+ ![visitors](https://visitor-badge.glitch.me/badge?page_id=jonathankumar10.visitor-badge)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
