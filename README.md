@@ -12,6 +12,12 @@ When I’m not working, I love playing Soccer, sketching and also occasionally p
 I am currently looking for summer and fall internship opportunities, preferably for the same.
 
 <br><br>
+<br><br>
+### Latest Blogposts!!
+<!-- BLOG-POST LIST: START -->
+<!-- BLOG-POST LIST: STOP -->
+<br><br>
+<br><br>
 
 ![Jonathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonathankumar10&show_icons=true&theme=dark)
 
