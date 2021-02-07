@@ -13,9 +13,7 @@ I am currently looking for summer and fall internship opportunities, preferably 
 
 <br><br>
 <br><br>
-### Latest Blogposts!!
-<!-- BLOG-POST LIST: START -->
-<!-- BLOG-POST LIST: STOP -->
+### My Github Stats! :biohazard:
 <br><br>
 <br><br>
 
