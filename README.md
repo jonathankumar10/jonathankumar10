@@ -18,9 +18,6 @@ I am currently looking for summer and fall internship opportunities, preferably 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonathankumar10&layout=compact)
 
-<img src="https://media.giphy.com/media/5ntdy5Ban1dIY/giphy.gif">
-
- ![visitors](https://visitor-badge.glitch.me/badge?page_id=jonathankumar10.visitor-badge)
 <br><br>
 
 ### How to reach me 📫: jonathanpasupulety@gmail.com
