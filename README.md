@@ -22,10 +22,5 @@ I am currently looking for summer and fall internship opportunities, preferably 
 <img src="https://media.giphy.com/media/5ntdy5Ban1dIY/giphy.gif">
 
  ![visitors](https://visitor-badge.glitch.me/badge?page_id=jonathankumar10.visitor-badge)
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning React!!
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
 <br>
-- 📫 How to reach me: jonathanpasupulety@gmail.com
+📫 How to reach me: jonathanpasupulety@gmail.com
