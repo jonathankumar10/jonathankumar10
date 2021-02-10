@@ -12,7 +12,6 @@ When I’m not working, I love playing Soccer, sketching and also occasionally p
 I am currently looking for summer and fall internship opportunities, preferably for the same.
 
 <br><br>
-<br><br>
 
 ### My Github Stats! :biohazard:
 ![Jonathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonathankumar10&show_icons=true&theme=dark)
@@ -22,5 +21,6 @@ I am currently looking for summer and fall internship opportunities, preferably 
 <img src="https://media.giphy.com/media/5ntdy5Ban1dIY/giphy.gif">
 
  ![visitors](https://visitor-badge.glitch.me/badge?page_id=jonathankumar10.visitor-badge)
-<br>
-📫 How to reach me: jonathanpasupulety@gmail.com
+<br><br>
+
+### How to reach me 📫: jonathanpasupulety@gmail.com
