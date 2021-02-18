@@ -1,8 +1,8 @@
 
 <h1 align="center"> Hi there, I'm Jonathan :wolf:</h1>
 
+<h1 align="center"> About Me!! 💬</h1>
 
-###  About Me!! 💬
 “Design is thinking made visual.” —Saul Bass
 
 This quote by Academy Award Winner Film Maker and graphic designer Saul Bass made me ponder and truly it made a perfect sense to me. What spirals in mind, transforms to ideas of creativity and then putting them on a drawing board through sketches and work on the systems to define them became a way of life for me! I was awe inspired by this new found enthusiasm to create visual treats while playing high resolution games. There were many elements that drew my attention and began critically thinking and looking at various improvements that could be made to the visual effects in the production of movies, video games, computer games and designing. This gave me the necessary impetus to the trajectory of programming, gaming and the visual effects thereby use my instincts, enterprising mind set through a Bachelor’s Degree in Engineering in Computer Engineering.
