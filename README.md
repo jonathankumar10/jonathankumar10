@@ -16,7 +16,7 @@ I am currently looking for summer and fall internship opportunities, preferably 
 <br><br>
 
 ### My Github Stats! :biohazard:
-<p align='center>
+<p align='center'>
 ![Jonathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonathankumar10&show_icons=true&theme=dark)
 
 <a href = "https://github-readme-streak-stats.herokuapp.com/?user=jonathankumar10&"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jonathankumar10&" alt="jonathankumar10" /></a>
