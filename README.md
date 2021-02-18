@@ -1,7 +1,7 @@
 
 <h1 align="center"> Hi there, I'm Jonathan :wolf:</h1>
 
-<h1 align="center"> About Me!! 💬</h1>
+<h2 align="center"> About Me!! 💬</h2>
 
 “Design is thinking made visual.” —Saul Bass
 
@@ -15,7 +15,7 @@ I am currently looking for summer and fall internship opportunities, preferably 
 
 <br><br>
 
-<h1 align="center">My Github Stats! :biohazard:</h1>
+<h2 align="center">My Github Stats! :biohazard:</h2>
 
 <p align="center">
 <a align='center' href= "https://github-readme-stats.vercel.app/api?username=jonathankumar10&show_icons=true&theme=dark"><img align="center" src="https://github-readme-stats.vercel.app/api?username=jonathankumar10&show_icons=true&theme=dark" alt="jonathankumar10" /></a>
@@ -29,7 +29,7 @@ I am currently looking for summer and fall internship opportunities, preferably 
 
 <br><br>
 
-<h3 align="center">Connect with me:</h3>
+<h2 align="center">Connect with me:</h2>
 <p align="center">
 <a href="https://www.linkedin.com/in/jonathankumar10"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://github.com/jonathankumar10"> <img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/> </a>
