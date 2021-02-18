@@ -1,4 +1,6 @@
-# Hi there, I'm Jonathan :wolf:
+
+<h1 align="center"># Hi there, I'm Jonathan :wolf:</h1>
+
 
 ###  About Me!! 💬
 “Design is thinking made visual.” —Saul Bass
