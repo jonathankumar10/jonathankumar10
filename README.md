@@ -23,9 +23,9 @@ I am currently looking for summer and fall internship opportunities, preferably 
 <p align="center">
 <a align='center' href = "https://github-readme-streak-stats.herokuapp.com/?user=jonathankumar10"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jonathankumar10&" alt="jonathankumar10" /></a>
 </p>
-<p align="center">
+<!-- <p align="center">
 <a align='center' href = "https://github-readme-stats.vercel.app/api/top-langs/?username=jonathankumar10&layout=compact"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathankumar10&layout=compact" alt="jonathankumar10" /></a>
-</p>
+</p> -->
 
 <br><br>
 
