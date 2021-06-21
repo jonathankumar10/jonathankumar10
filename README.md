@@ -25,9 +25,9 @@ I am currently looking for summer and fall internship opportunities, preferably 
 </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonathankumar10&layout=compact&langs_count=10&exclude_repo=NDCV,AI-Medicine,Machine-Learning-Project-)](https://github.com/jonathankumar10?tab=repositories)
-<!-- <p align="center">
+<p align="center">
 <a align='center' href = "https://github-readme-stats.vercel.app/api/top-langs/?username=jonathankumar10&layout=compact"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathankumar10&layout=compact" alt="jonathankumar10" /></a>
-</p> -->
+</p>
 
 <br><br>
 
