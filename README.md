@@ -23,7 +23,12 @@ I am currently looking for summer and fall internship opportunities, preferably 
 <p align="center">
 <a align='center' href = "https://github-readme-streak-stats.herokuapp.com/?user=jonathankumar10&"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jonathankumar10&" alt="jonathankumar10" /></a>
 </p>
-<br>
+<p align="center">
+<a align='center' href = "https://github-readme-stats.vercel.app/api/top-langs/?username=jonathankumar10&layout=compact"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathankumar10&layout=compact" alt="jonathankumar10" /></a>
+</p>
+
+<br><br>
+
 <h2 align="center">Connect with me:</h2>
 <p align="center">
 <a href="https://www.linkedin.com/in/jonathankumar10"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
