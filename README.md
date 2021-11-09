@@ -30,6 +30,4 @@ I am currently looking for summer and fall internship opportunities, preferably 
 <a href="https://www.hackerrank.com/jonathankumar10"><img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
 <a href = "mailto:jonathanpasupulety@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
->>>>>>> 1b47bf6702c1330c3fa1c167d798915f063fefd8
-l&logoColor=white" /></a>
 </p>
