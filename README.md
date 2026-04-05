@@ -9,7 +9,6 @@ Software Development Engineer with 3+ years of experience, excelling in creating
 <h2 align="center">My Github Stats! :biohazard:</h2>
 
 <p align="center">
-<a align='center' href= "https://github-readme-stats.vercel.app/api?username=jonathankumar10&show_icons=true&theme=dark"><img align="center" src="https://github-readme-stats.vercel.app/api?username=jonathankumar10&show_icons=true&theme=dark" alt="jonathankumar10" /></a>
 </p>
 <p align="center">
 <a align='center' href = "https://github-readme-streak-stats.herokuapp.com/?user=jonathankumar10"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jonathankumar10&" alt="jonathankumar10" /></a>
